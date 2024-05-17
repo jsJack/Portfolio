@@ -1878,4 +1878,10 @@ textarea.form-input::-webkit-resizer { display: none; }
 	 */
 
   .timeline-text { max-width: 700px; }
+
+
+  /* image class rounded effect */
+  .rounded {
+    border-radius: 20%;
+  }
 }
